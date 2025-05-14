@@ -65,9 +65,9 @@ pip install -r requirements.txt
 ```
 ## 🌟 注意
 
-- 文件默认下载路径 'D:\\IMI\\Download'
-- 截图保存路径：'D:\\IMI\\ScreenShot'
-- 测试用上传文件的路径:'D:\\IMI\\Download\\test.csv'
+- 文件默认下载路径 'D:\\IMI\\Download\'
+- 截图保存路径：'D:\\IMI\\ScreenShot\'
+- 测试用上传文件的路径:'D:\\IMI\\Download\\test.csv\'
 
 ## License
 
